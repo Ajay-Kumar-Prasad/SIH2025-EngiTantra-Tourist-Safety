@@ -94,7 +94,10 @@ SIH2025-EngiTantra-Tourist-Safety/
 2. Create your branch: `git checkout -b feature-name`  
 3. Commit changes: `git commit -m "Added new feature"`  
 4. Push branch: `git push origin feature-name`  
-5. Submit Pull Request  
+5. Submit Pull Request 
+
+## Note:
+For now focus on creating Documentation...
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.  
 
