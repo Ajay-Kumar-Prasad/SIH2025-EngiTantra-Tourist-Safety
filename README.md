@@ -67,4 +67,43 @@ A **technology-driven, smart ecosystem** is needed to ensure:
 
 ## 📂 Repository Structure  
 
+SIH2025-EngiTantra-Tourist-Safety/
+│── code/ # Source code (frontend, backend, AI models)
+│── docs/ # Documentation (problem statement, workflow, reports)
+│── ppt/ # SIH Pitch presentation slides
+│── demo/ # Screenshots, videos, demo scripts
+│── README.md # Project overview
+│── CONTRIBUTING.md # Contribution guidelines
+│── LICENSE
 
+
+---
+
+## 👥 Team Members  
+- **Ajay Kumar Prasad** – Team Leader - Business model & Market Strategy
+- Soham-3T - Business model & Market Strategy
+- NetsNuts-24 - Safety Research
+- SaiPrithvi1278 – Safety Research
+- jeevan1276 – Technical Reasearch
+- Surya070805 –  Technical Research 
+
+---
+
+## 🤝 Contributing  
+1. Fork this repo  
+2. Create your branch: `git checkout -b feature-name`  
+3. Commit changes: `git commit -m "Added new feature"`  
+4. Push branch: `git push origin feature-name`  
+5. Submit Pull Request  
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License**.  
+
+---
+
+## 🚀 Acknowledgments  
+Smart India Hackathon 2025 – Problem Statement **PS25002**  
