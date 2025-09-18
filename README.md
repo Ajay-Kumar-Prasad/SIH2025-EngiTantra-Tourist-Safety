@@ -66,39 +66,87 @@ A **technology-driven, smart ecosystem** is needed to ensure:
 ---
 
 ## 📂 Repository Structure  
-
+```
 SIH2025-EngiTantra-Tourist-Safety/
-- ├── code/ # Main codebase
-- │ ├── backend/ # Server, APIs, DB schema
-- │ ├── frontend/ # Web app / admin dashboard
-- │ └── ai-model/ # Model training, inference scripts
-- │
-- ├── docs/ # Documentation
-- │ ├── problem_statement.md
-- │ ├── approach.md
-- │ └── architecture.png
-- │
-- ├── ppt/ # Presentation slides
-- │ └── SIH_Pitch.pptx
-- │
-- ├── demo/ # Demo videos, screenshots, sample data
-- │ └── demo_video.mp4
-- │
-- ├── .gitignore
-- ├── README.md
-- ├── CONTRIBUTING.md
-- └── LICENSE
+├── code/ # Main codebase
+│ ├── backend/ # Server, APIs, DB schema
+│ ├── frontend/ # Web app / admin dashboard
+│ └── ai-model/ # Model training, inference scripts
+│
+├── docs/ # Documentation
+│ ├── problem_statement.md
+│ ├── approach.md
+│ └── architecture.png
+│
+├── ppt/ # Presentation slides
+│ └── SIH_Pitch.pptx
+│
+├── demo/ # Demo videos, screenshots, sample data
+│ └── demo_video.mp4
+│
+├── .gitignore
+├── README.md
+├── CONTRIBUTING.md
+└── LICENSE
 
-
+```
 ---
 
 ## 👥 Team Members  
-- **Ajay Kumar Prasad** – Team Leader - Business model & Market Strategy
-- Soham-3T - Business model & Market Strategy
-- NetsNuts-24 - Safety Research
-- SaiPrithvi1278 – Safety Research
-- jeevan1276 – Technical Reasearch
-- Surya070805 –  Technical Research 
+
+<!-- Add contributors here -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ajay-Kumar-Prasad">
+        <img src="https://github.com/Ajay-Kumar-Prasad.png" width="100px;" alt="SOHAM-3T"/>
+        <br />
+        <sub><b>Ajay Kumar Prasad</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/SOHAM-3T">
+        <img src="https://github.com/SOHAM-3T.png" width="100px;" alt="SOHAM-3T"/>
+        <br />
+        <sub><b>Soham Tripathy</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/SaiPrithvi1278">
+        <img src="https://github.com/SaiPrithvi1278.png" width="100px;" alt="SOHAM-3T"/>
+        <br />
+        <sub><b>Sai Prithvi</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/NetsNuts-24">
+        <img src="https://github.com/NetsNuts-24.png" width="100px;" alt="Neti"/>
+        <br />
+        <sub><b>Neti Dubey</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/jeevan1276">
+        <img src="https://github.com/jeevan1276.png" width="100px;" alt="Jeevan"/>
+        <br />
+        <sub><b>Manepalli Jeevan</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Surya070805">
+        <img src="https://github.com/Surya070805.png" width="100px;" alt="Surya"/>
+        <br />
+        <sub><b>Surya Mitra</b></sub>
+      </a>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
