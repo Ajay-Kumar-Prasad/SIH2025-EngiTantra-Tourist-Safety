@@ -68,13 +68,26 @@ A **technology-driven, smart ecosystem** is needed to ensure:
 ## 📂 Repository Structure  
 
 SIH2025-EngiTantra-Tourist-Safety/
-│── code/ # Source code (frontend, backend, AI models)
-│── docs/ # Documentation (problem statement, workflow, reports)
-│── ppt/ # SIH Pitch presentation slides
-│── demo/ # Screenshots, videos, demo scripts
-│── README.md # Project overview
-│── CONTRIBUTING.md # Contribution guidelines
-│── LICENSE
+├── code/ # Main codebase
+│ ├── backend/ # Server, APIs, DB schema
+│ ├── frontend/ # Web app / admin dashboard
+│ └── ai-model/ # Model training, inference scripts
+│
+├── docs/ # Documentation
+│ ├── problem_statement.md
+│ ├── approach.md
+│ └── architecture.png
+│
+├── ppt/ # Presentation slides
+│ └── SIH_Pitch.pptx
+│
+├── demo/ # Demo videos, screenshots, sample data
+│ └── demo_video.mp4
+│
+├── .gitignore
+├── README.md
+├── CONTRIBUTING.md
+└── LICENSE
 
 
 ---
